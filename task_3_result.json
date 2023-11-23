@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Strawberry",
+        "max": 99.79,
+        "min": 5.34,
+        "avr": 52.13
+    },
+    {
+        "name": "Orange",
+        "max": 99.89,
+        "min": 5.7,
+        "avr": 50.88
+    },
+    {
+        "name": "Banana",
+        "max": 99.66,
+        "min": 5.13,
+        "avr": 51.3
+    },
+    {
+        "name": "Apple",
+        "max": 99.69,
+        "min": 5.16,
+        "avr": 50.08
+    },
+    {
+        "name": "Melon",
+        "max": 99.72,
+        "min": 5.52,
+        "avr": 50.11
+    },
+    {
+        "name": "Guava",
+        "max": 99.68,
+        "min": 5.08,
+        "avr": 50.33
+    },
+    {
+        "name": "Grapes",
+        "max": 99.97,
+        "min": 5.27,
+        "avr": 52.57
+    },
+    {
+        "name": "Papaya",
+        "max": 99.84,
+        "min": 5.63,
+        "avr": 51.84
+    },
+    {
+        "name": "Kiwifruit",
+        "max": 99.91,
+        "min": 5.05,
+        "avr": 54.28
+    },
+    {
+        "name": "Plum",
+        "max": 99.98,
+        "min": 5.07,
+        "avr": 51.4
+    },
+    {
+        "name": "Raspberry",
+        "max": 99.85,
+        "min": 5.46,
+        "avr": 54.11
+    },
+    {
+        "name": "Peach",
+        "max": 99.74,
+        "min": 5.35,
+        "avr": 52.84
+    },
+    {
+        "name": "Cherry",
+        "max": 99.46,
+        "min": 5.6,
+        "avr": 50.84
+    },
+    {
+        "name": "Blueberry",
+        "max": 99.53,
+        "min": 5.43,
+        "avr": 48.64
+    },
+    {
+        "name": "Blackberry",
+        "max": 99.73,
+        "min": 5.35,
+        "avr": 51.62
+    },
+    {
+        "name": "Apricot",
+        "max": 99.28,
+        "min": 5.02,
+        "avr": 51.9
+    },
+    {
+        "name": "Cranberry",
+        "max": 99.38,
+        "min": 6.06,
+        "avr": 54.78
+    },
+    {
+        "name": "Pineapple",
+        "max": 99.98,
+        "min": 5.09,
+        "avr": 53.54
+    },
+    {
+        "name": "Mango",
+        "max": 100.0,
+        "min": 5.13,
+        "avr": 51.0
+    },
+    {
+        "name": "Boysenberry",
+        "max": 99.29,
+        "min": 5.13,
+        "avr": 51.44
+    }
+]
